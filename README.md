@@ -45,3 +45,4 @@ A simple web project that helps users sort products and choose the best items wi
 This project shows how algorithms like sorting and knapsack can be used in real shopping systems.
 
 ## Project Live Link
+https://smart-shopping-optimizer-for-ecommerc.netlify.app/
